@@ -131,7 +131,7 @@ header a:hover{
     background-position: center center;
     background-size: cover;
     padding: 50px 0px;
-    margin: 30px;
+    margin: 50px;
     border-radius: 15px;
 }
 
@@ -141,7 +141,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/front-end.jpg");
+    ,url("media/camiseta.jpg");
 
 }
 
@@ -151,7 +151,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/full-stack.jpg");
+    ,url("media/zapatillas.jpg");
 }
 
 .carta:nth-child(3){
@@ -160,7 +160,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/python.jpg");
+    ,url("media/balon.jpg");
 
 }
 
@@ -254,7 +254,7 @@ footer .container{
         background-image: url("media/pelota.jpg");
         background-size: cover;
         background-position: center center;
-        height: 500px;
+        height: 400px;
         width: 400px; 
     }
 
@@ -273,12 +273,12 @@ footer .container{
     }
 
     #nuestros-programas h3{
-        margin-top: 0;
+        margin-top: 160px;
     }
 
     #nuestros-programas .carta{
-        padding: 50px;
-        background-size: 100% 150px;
+        padding: 70px;
+        background-size: 100% 210px;
         background-repeat: no-repeat;
         background-position-y: 0;
         background-color: rgba(50, 50, 50, 1);
